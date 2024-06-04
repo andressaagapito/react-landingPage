@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-
 import { wrapperStyle } from "./styles.jsx";
 import { Home, Aperture, ShutterSpeed, ISO } from "./pages.jsx";
 import Navigation from "./navigation.jsx";
